@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+span {
+  color: #217505;
+  font-weight: 800;
+}
+
+.form-input {
+  background-color: #ecfadf;
+}
